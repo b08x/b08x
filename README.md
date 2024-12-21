@@ -2,7 +2,7 @@
 
 As I put it for the sake of brevity;
 
-These repositories are things I'm either practicing or testing. I don't focus so much on whole projects as much as I do refining or testing various methods and design patterns.
+These repositories are things I'm either practicing or testing. I don't focus so much on whole projects as much as I do refining or testing programming methods and design patterns.
 
 _Using a Language Model as a tool to better define my intentions:_
 
