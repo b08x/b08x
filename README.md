@@ -10,4 +10,4 @@ _Using a Language Model as a tool to better define my intentions:_
 
 Personally, I wouldn't think to phrase it that way, as in the context of my life it usually doesn't serve me well to speak with such layered jargon. Then again, as the write this, my mood is casual, which tends to prefer easier language. However, the easier language can and will give a certain impression. 
 
-Anyway...as a DevOps minded person, it's a challenge to properly contexualize a personal set of repostories. As while the goal is always to create tools that can be shared and re-used, it's skill I haven't quite perfected. 
+Anyway...as a DevOps minded person, it's a challenge to contexualize a personal set of repostories that aren't polished projects. 
