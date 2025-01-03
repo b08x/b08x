@@ -1,10 +1,6 @@
 ### Hello! 👋
 
-As I'd like put it for the sake of brevity;
-
-These repositories are things I'm either practicing or testing. I don't focus so much on whole projects as much as I do refining or testing programming methods and design patterns.
-
-_Using a Language Model as a tool to better define intentions and reflect experience:_
+_Using a Language Model to help define intentions and reflect experience:_
 
 > Rather than pursuing the creation of complete, self-contained software projects, I dedicate my efforts to the meticulous refinement and empirical testing of discrete coding methodologies and architectural frameworks for organizing software components.
 
